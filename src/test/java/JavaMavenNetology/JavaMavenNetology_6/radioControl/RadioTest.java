@@ -259,6 +259,3 @@ class RadioTest {
         Assertions.assertEquals(expected, actual);
     }
 }
-
-// нет смысла тестировать ЗА граничные значения в next и prev, т.к. это будет тест  текущих значений!!!!!!
-// а мы тестируем именно кнопку next и prev !!!!!!
